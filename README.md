@@ -10,6 +10,7 @@
 - Hottest Corners
 - ItsyCal
 - Clipy
+- Finicky
 - Font smoother adjuster
 - Fish shell
 
