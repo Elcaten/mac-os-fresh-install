@@ -24,6 +24,8 @@ module.exports = {
             match: [
                 /^https:\/\/mail\.google\.com\/.*$/,
                 /^https:\/\/meet\.google\.com\/.*$/,
+                /^https:\/\/crowdin\.com\/.*$/,
+                /yougood\.one/,
                 /semrush/
             ],
             browser: {
