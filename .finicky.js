@@ -8,10 +8,11 @@ module.exports = {
         // Hide the finicky icon from the top bar. Default: false
         hideIcon: true
     },
-    defaultBrowser: {
-        name: "Brave Browser",
-        profile: "Profile 1",
-    },
+    defaultBrowser: 'safari',
+    // defaultBrowser: {
+    //     name: "Brave Browser",
+    //     profile: "Profile 1", // Personal
+    // },
     rewrite: [
         {
             // Redirect all urls to use https
@@ -33,7 +34,7 @@ module.exports = {
             ],
             browser: {
                 name: "Brave Browser",
-                profile: "Default",
+                profile: "Default", // Work
             }
         },
     ]
