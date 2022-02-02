@@ -26,6 +26,7 @@ module.exports = {
                 /^https:\/\/mail\.google\.com\/.*$/,
                 /^https:\/\/meet\.google\.com\/.*$/,
                 /^https:\/\/docs\.google\.com\/.*$/,
+                /^https:\/\/drive\.google\.com\/.*$/,
                 /^https:\/\/crowdin\.com\/.*$/,
                 /^https:\/\/.*recruitee\.com\/.*$/,
                 /www\.figma\.com/,
