@@ -13,7 +13,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>me.elcaten.keyboardlayout.personal.english</string>
+		<string>me.elcaten.keyboardlayout.personal.english-personal</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
@@ -22,7 +22,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>me.elcaten.keyboardlayout.personal.russian</string>
+		<string>me.elcaten.keyboardlayout.personal.russian-personal</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
