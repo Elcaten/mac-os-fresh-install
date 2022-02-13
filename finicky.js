@@ -1,5 +1,3 @@
-// Save as ~/.finicky.js
-
 // Default = semrush
 // Profile 1 = personal
 
