@@ -1,0 +1,18 @@
+{
+  "title": "Caps to Fn",
+  "rules": [
+    {
+      "description": "Caps Lock to Fn",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "caps_lock",
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "fn" }]
+        }
+      ]
+    }
+  ]
+}

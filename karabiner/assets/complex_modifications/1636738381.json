@@ -1,0 +1,28 @@
+{
+  "title": "Fn + H to Delete",
+  "rules": [
+    {
+      "description": "Fn + H to Delete",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "h",
+            "modifiers": { "mandatory": ["fn"], "optional": ["any"] }
+          },
+          "to": [{ "key_code": "delete_or_backspace" }]
+        }
+      ]
+    },
+    {
+      "description": "Disable Delete",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": { "key_code": "delete_or_backspace" },
+          "to": [{ "key_code": "vk_none" }]
+        }
+      ]
+    }
+  ]
+}
