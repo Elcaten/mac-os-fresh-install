@@ -9,7 +9,7 @@
 - Flux
 - Hottest Corners
 - ItsyCal
-- Clipy
+- Maccy
 - Finicky
 - Font smoother adjuster
 - Fish shell

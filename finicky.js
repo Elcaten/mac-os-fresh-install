@@ -27,8 +27,10 @@ module.exports = {
                 /^https:\/\/drive\.google\.com\/.*$/,
                 /^https:\/\/crowdin\.com\/.*$/,
                 /^https:\/\/.*recruitee\.com\/.*$/,
-                /www\.figma\.com/,
-                /yougood\.one/,
+                /sendgrid/,
+                /zoom.us/,
+                /figma/,
+                /yougood/,
                 /semrush/
             ],
             browser: {
