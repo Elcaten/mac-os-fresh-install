@@ -22,7 +22,7 @@
             "to_if_alone": [
               {
                 "select_input_source": {
-                  "input_source_id": "^org.sil.ukelele.keyboardlayout.english-persona$.english-personal$"
+                  "input_source_id": "^me.elcaten.keyboardlayout.personal.english-personal$"
                 }
               }
             ]
@@ -45,7 +45,7 @@
             "to_if_alone": [
               {
                 "select_input_source": {
-                  "input_source_id": "^org.sil.ukelele.keyboardlayout.english-persona$.russian-personally$"
+                  "input_source_id": "^me.elcaten.keyboardlayout.personal.russian-personal$"
                 }
               }
             ]
